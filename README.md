@@ -1,5 +1,1 @@
-# Les Miserables
-
-Reed HS 
-
-- Giana and Mal!
+# [Les Miserables](https://iarobinson.github.io/les_miserables/)
